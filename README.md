@@ -71,6 +71,6 @@ It highlights my work, skills, and resume, and includes a **backend tracking sys
 ## 📧 Contact  
 
 - 📩 Email: [shubhamdighe45@gmail.com](mailto:youremail@example.com)  
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/shubhamdighe)  
+- 💼 LinkedIn: [Linkedin Profile](https://linkedin.com/in/shubhamdighe)  
 - 🐙 GitHub: [@ShubhamMaster](https://github.com/shubhammaster)  
 
