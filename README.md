@@ -66,11 +66,11 @@ It highlights my work, skills, and resume, and includes a **backend tracking sys
 
 ## 🔗 Live Demo  
 
-👉 [Visit My Portfolio](https://yourdomain.com)  
+👉 [Visit My Portfolio](https://shubhamresume.wuaze.com)  
 
 ## 📧 Contact  
 
-- 📩 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)  
+- 📩 Email: [shubhamdighe45@gmail.com](mailto:youremail@example.com)  
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/shubhamdighe)  
+- 🐙 GitHub: [@ShubhamMaster](https://github.com/shubhammaster)  
 
