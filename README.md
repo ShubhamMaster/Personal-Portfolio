@@ -56,5 +56,21 @@ It highlights my work, skills, and resume, and includes a **backend tracking sys
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
-   cd portfolio
+   git clone https://github.com/ShubhamMaster/Personal-Portfolio.git
+   cd Personal-Portfolio
+
+   ## 📸 Screenshots  
+
+![Portfolio Homepage](assets/screenshots/homepage.png)  
+![Analytics Dashboard](assets/screenshots/analytics.png)  
+
+## 🔗 Live Demo  
+
+👉 [Visit My Portfolio](https://yourdomain.com)  
+
+## 📧 Contact  
+
+- 📩 Email: [youremail@example.com](mailto:youremail@example.com)  
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+- 🐙 GitHub: [@yourusername](https://github.com/yourusername)  
+
