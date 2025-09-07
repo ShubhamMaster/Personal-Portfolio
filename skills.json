@@ -1,0 +1,7 @@
+{
+    "Programming Languages": ["Python", "Java", "C", "C++"],
+    "Web Development": ["HTML", "CSS", "JavaScript", "PHP", "Bootstrap"],
+    "Database & Problem-Solving": ["SQL", "MySQL", "MongoDB", "Data Structures", "Algorithms"],
+    "Software Development & DevOps": ["Git", "GitHub", "GitLab", "Docker", "Kubernetes"],
+    "Emerging Technologies": ["Flutter", "Android", "Figma", "Photoshop", "Arduino", "Raspberry Pi"]
+}
