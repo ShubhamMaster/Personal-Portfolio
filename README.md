@@ -1,116 +1,60 @@
-🌐 Personal Portfolio (PHP + MySQL)
+# 🌐 Personal Portfolio (PHP + MySQL)
 
-This is my personal portfolio website built with PHP, MySQL, HTML, CSS, and JavaScript.
-It showcases my work, skills, and resume while also including a backend tracking system that logs visitor activity.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🚀 Features
-🖥️ Portfolio Pages
+This is my **personal portfolio website** built using **PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript**.  
+It highlights my work, skills, and resume, and includes a **backend tracking system** to monitor visitors.
 
-Home Page – Introduction and highlights
+---
 
-About Me – Education, experience, and background
+## 🚀 Features
 
-Projects – List of projects with descriptions and links
+### 🖥️ Portfolio Pages
+- 🏠 **Home Page** – Introduction and highlights  
+- 👨‍💻 **About Me** – Education & experience  
+- 📂 **Projects** – Detailed showcase of my work  
+- 🛠️ **Skills** – Technical skills and tools  
+- 📄 **Resume** – Downloadable PDF  
+- 📬 **Contact Form** – Direct messaging  
 
-Skills – Technical and soft skills overview
+### ⚙️ Backend Visitor Tracking
+- 🔎 Logs **visitor details** (IP, browser, device info)  
+- 📑 Tracks **visited pages**  
+- 📥 Records **resume downloads**  
+- ⏱️ Monitors **time spent on site**  
+- 🔄 Tracks **total visits & last seen**  
+- 📊 Stores analytics data in **MySQL**  
 
-Resume – Downloadable PDF resume
+---
 
-Contact Form – Send direct messages via email/database
+## 📊 Example Visitor Analytics
 
-⚙️ Backend (Visitor Tracking System)
+| Visitor IP       | Pages Visited         | Resume Download | Total Visits | Last Seen       |
+|------------------|----------------------|-----------------|--------------|-----------------|
+| 115.247.104.226  | Home, Projects, Contact | ✅ | 5 | Sept 7, 2025 |
+| 192.168.1.45     | Home, About          | ❌ | 2 | Sept 6, 2025 |
 
-Logs visitor details (IP address, browser, device info)
+---
 
-Tracks which pages were visited
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** PHP (Core PHP)  
+- **Database:** MySQL  
+- **Tools & Libraries:**  
+  - PHP Sessions for tracking  
+  - Chart.js (optional for analytics visualization)  
+  - IP geolocation APIs (optional)  
 
-Records resume download activity
+---
 
-Measures time spent on the site
+## ⚙️ Installation & Setup
 
-Tracks number of visits & last seen date/time
-
-Stores analytics data in MySQL database
-
-📊 Example Visitor Analytics
-Visitor IP	Pages Visited	Resume Download	Total Visits	Last Seen
-115.247.104.226	Home, Projects, Contact	✅	5	Sept 7, 2025
-192.168.1.45	Home, About	❌	2	Sept 6, 2025
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript, Bootstrap
-
-Backend: PHP (Core PHP)
-
-Database: MySQL
-
-Other Tools:
-
-PHP Sessions (for tracking)
-
-MySQL Triggers/Queries for analytics
-
-Chart.js (for visual analytics, optional)
-
-📂 Folder Structure
-portfolio/
-│── assets/             # CSS, JS, Images
-│── pages/              # About, Projects, Skills, Contact
-│── backend/            # Visitor tracking scripts
-│   ├── track.php       # Logs visits & downloads
-│   ├── analytics.php   # Analytics dashboard
-│── includes/           # Navbar, Footer, DB connection
-│   ├── connection.php  # Database connection file
-│── index.php           # Homepage
-│── resume/             # Resume PDF
-│── README.md           # Documentation
-
-⚙️ Installation & Setup
-
-Clone Repository
-
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-
-
-Set Up Database
-
-Create a new MySQL database (e.g., portfolio_db)
-
-Import the provided database.sql file
-
-Update includes/connection.php with your DB credentials:
-
-$servername = "localhost";
-$username   = "root";
-$password   = "";
-$dbname     = "portfolio_db";
-
-
-Start Local Server
-
-Place files in htdocs/ (XAMPP/LAMP)
-
-Start Apache & MySQL
-
-Open in browser:
-
-http://localhost/portfolio/
-
-📸 Screenshots
-
-Add screenshots of your portfolio and analytics dashboard here.
-
-🔗 Live Demo
-
-👉 Visit My Portfolio
-
-📧 Contact
-
-If you’d like to connect or collaborate:
-
-📩 Email: youremail@example.com
-
-💼 LinkedIn: Your Profile
-
-🐙 GitHub: @yourusername
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
+   cd portfolio
